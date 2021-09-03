@@ -1,4 +1,3 @@
 # Beginner Machine Learning
-
-Beginner steps towards machine learning, projects: 
+Small steps towards learning machine learning, projects: 
 ## Weather prediction.
