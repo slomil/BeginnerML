@@ -1,3 +1,4 @@
 # WeatherPrediction
 
-Beginner video in machine learning implementing weather prediction.
+Beginner steps towards machine learning, projects: 
+## Weather prediction.
